@@ -6,7 +6,7 @@
 
 
 def main():
-   # this function prints in the terminal
+    # this function prints in the terminal
     print("Hello, World!")
 
     print("\nDone.")
